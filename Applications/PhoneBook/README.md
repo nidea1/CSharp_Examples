@@ -25,7 +25,6 @@ Please select the operation you want to perform :)
 ```
 
 ```yaml
-Copy code
 Please enter the name            : 
 Please enter the surname         :
 Please enter the phone number   :
@@ -36,13 +35,11 @@ Please enter the phone number   :
 Search by name and surname is sufficient.
 
 ```arduino
-Copy code
 Please enter the name or surname of the person whose number you want to delete:
 If no person is found in the directory according to the user's input:
 ```
 
 ```vbnet
-Copy code
 No data was found in the directory that meets your criteria. Please make a selection.
 * To end deletion: (1)
 * To try again   : (2)
@@ -50,7 +47,6 @@ If suitable data is found in the directory:
 ```
 
 ```sql
-Copy code
 Are you sure you want to delete the person named {} from the directory? (y/n)
 Note: If the directory finds more than one person suitable for the criteria, the first one found should be deleted.
 ```
@@ -58,13 +54,11 @@ Note: If the directory finds more than one person suitable for the criteria, the
 (3) Update Existing Number
 
 ```css
-Copy code
 Please enter the name or surname of the person whose number you want to update:
 If no person is found in the directory according to the user's input:
 ```
 
 ```vbnet
-Copy code
 No data was found in the directory that meets your criteria. Please make a selection.
 * To end the update : (1)
 * To try again      : (2)
@@ -78,7 +72,6 @@ Note: If the directory finds more than one person suitable for the criteria, the
 The entire directory is listed on the console in the following format.
 
 markdown
-Copy code
 Telephone Directory
 **********************************************
 Name: {} Surname: {} Phone Number: {} 
@@ -86,7 +79,6 @@ Name: {} Surname: {} Phone Number: {}
 (5) Search in Directory
 
 markdown
-Copy code
 Choose the type you want to search for.
 **********************************************
 To search by name or surname: (1) 
@@ -94,7 +86,6 @@ To search by phone number: (2)
 The data found according to the search result should be displayed in the following format.
 
 markdown
-Copy code
 Your Search Results:
 **********************************************
 Name: {} Surname: {} Phone Number: {} 

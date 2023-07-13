@@ -71,25 +71,27 @@ Note: If the directory finds more than one person suitable for the criteria, the
 
 The entire directory is listed on the console in the following format.
 
-markdown
+```markdown
 Telephone Directory
 **********************************************
 Name: {} Surname: {} Phone Number: {} 
 - Name: {} Surname: {} Phone Number: {} ..
+```
 (5) Search in Directory
 
-markdown
+```markdown
 Choose the type you want to search for.
 **********************************************
 To search by name or surname: (1) 
 To search by phone number: (2)
 The data found according to the search result should be displayed in the following format.
+```
 
-markdown
+```markdown
 Your Search Results:
 **********************************************
 Name: {} Surname: {} Phone Number: {} 
 - Name: {} Surname: {} Phone Number: {} ..
-** Each feature should be done using separate class/method. Responsibilities should be fragmented as much as possible and the code should be readable.
+```
 
-Please let me know if you have any other requests or need further assistance!
+** Each feature should be done using separate class/method. Responsibilities should be fragmented as much as possible and the code should be readable.

@@ -14,7 +14,6 @@ Start by adding the numbers of 5 people as default.
 When the application first starts, the user is asked to select the operation they want to do.
 
 ```markdown
-Copy code
 Please select the operation you want to perform :) 
 ******************************************* 
 (1) Save New Number 
